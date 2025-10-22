@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "question": "'Dog' là gì trong tiếng Việt?",
+    "options": ["Con chó", "Con mèo", "Con chim", "Con cá"],
+    "answer": "Con chó"
+  },
+  {
+    "id": 2,
+    "question": "'Cat' là gì trong tiếng Việt?",
+    "options": ["Ngôi nhà", "Cái cây", "Con mèo", "Xe hơi"],
+    "answer": "Con mèo"
+  },
+  {
+    "id": 3,
+    "question": "'House' là gì trong tiếng Việt?",
+    "options": ["Trường học", "Ngôi nhà", "Bệnh viện", "Công viên"],
+    "answer": "Ngôi nhà"
+  },
+  {
+    "id": 4,
+    "question": "Chọn từ đúng cho 'quả táo'",
+    "options": ["Apple", "Banana", "Orange", "Carrot"],
+    "answer": "Apple"
+  }
+]
